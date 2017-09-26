@@ -1,0 +1,15 @@
+body{
+	background: #efedef;
+}
+h1{
+	
+}
+img.align-center{
+	display: block;
+	margin: 0px auto;
+	margin-top: 5px;
+}
+img.medium{
+	width: 400px;
+	height: 204px;
+}
