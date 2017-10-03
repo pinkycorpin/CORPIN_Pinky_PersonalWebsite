@@ -41,7 +41,7 @@ img.align-center{
 	margin: 0px auto;
 }
 p.one{
-	margin-top: 30px;
+	margin-top: 50px;
 	margin-left: 30px;
 	padding: 10px;
 	font-size: 30px;
@@ -51,15 +51,17 @@ p.one{
 	text-align: center;
 	font-family: 'Allura', cursive;
 	color: #6d6c6d;
+	background-color: #f7def7;
 }
 p.two{
+	margin-top: 50px;
 	margin-left: 50px;
 	font-family: 'Molengo', sans-serif;
 	font-size: 30px;
 	color: #6d6c6d;
 }
 p.three{
-	margin-top: 30px;
+	margin-top: 50px;
 	margin-left: 30px;
 	padding: 5px;
 	padding-color: pink;
@@ -70,6 +72,12 @@ p.three{
 	background-color: #f7def7;
 	text-align: center;
 	font-family: 'Antic', sans-serif;
+}
+p.four{
+	margin-top: 50px;
+	margin-left: 30px;
+	font-family: 'Antic', sans-serif;
+	font-size: 15px;
 }
 .column1{
 	background-color: #e0dbe0;
