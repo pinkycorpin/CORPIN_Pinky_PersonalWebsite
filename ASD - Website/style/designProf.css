@@ -81,9 +81,46 @@ p.four{
 }
 .column1{
 	background-color: #e0dbe0;
-	width: 900px;
+	width: 300px;
 	height: 900px;
 	float: left;
 	margin: 10px;
 	margin-top: 5px;
+}
+.column2{
+	background-color: #e0dbe0;
+	width: 580px;
+	height: 900px;
+	float: left;
+	margin: 10px;
+	margin-top: 5px;
+}
+p.five{
+	margin-top: 50px;
+	margin-left: 35px;
+	padding: 50px;
+	padding-color: pink;
+	font-size: 30px;
+	width: 400px;
+	height: 50px;
+	border: 2px solid black;
+	background-color: #f7def7;
+	text-align: center;
+	font-family: 'Encode Sans Expanded', sans-serif;
+}
+p.six{
+	margin-top: 50px;
+	font-size: 20px;
+	text-align: left;
+	font-family: 'Encode Sans Expanded', sans-serif;
+}
+p.seven{
+	text-indent: 20px;
+	text-align: justify;
+}
+p.eight{
+	font-size: 20px;
+	text-align: left;
+	font-family: 'Encode Sans Expanded', sans-serif;
+	margin-top: 100px;
 }
