@@ -1,6 +1,10 @@
 body{
 	background: #efedef;
 }
+img.align-center{
+	display: block;
+	margin: 0px auto;
+}
 input[type="text"]{
 	display: block;
 	margin-bottom: 5px;
