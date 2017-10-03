@@ -1,3 +1,25 @@
 body{
 	background: #efedef;
 }
+input[type="text"]{
+	display: block;
+	margin-bottom: 5px;
+	width: 300px;
+	border: 1px solid black;
+	background: #FDF2FF;
+}
+input[type="email"]{
+	display: block;
+	margin-bottom: 5px;
+	width: 300px;
+	border: 1px solid black;
+	background: #FDF2FF;
+}
+input[type="message"]{
+	display: block;
+	margin-bottom: 5px;
+	width: 300px;
+	height: 100px;
+	border: 1px solid black;
+	background: #FDF2FF;
+}
