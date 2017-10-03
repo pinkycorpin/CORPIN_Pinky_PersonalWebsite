@@ -4,7 +4,7 @@ body{
 	margin: 0 auto;
 }
 .topnav {
-    background-color: #d8d6d8;
+    background-color: #e0dbe0;
     overflow: hidden;
     margin: 10px;
     width: 900px;
@@ -19,11 +19,11 @@ body{
     font-size: 17px;
 }
 .topnav a:hover {
-    background-color: #ddd;
+    background-color: #e8b9da;
     color: black;
 }
-.topnav a.active {
-    background-color: #4CAF50;
+.topnav a:active {
+    background-color: #e8b9da;
     color: white;
 }
 img.align-center{
