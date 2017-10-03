@@ -1,12 +1,13 @@
 body{
 	background: #efedef;
 }
-img.align-center{
-	display: block;
-	margin: 0px auto;
-	margin-top: 5px;
+p{
+	text-align: center;
 }
-img.medium{
-	width: 400px;
-	height: 204px;
+img.align-center{
+	margin-top: 80px;
+}
+img.large{
+	width: 788px;
+	height: 255px;
 }
