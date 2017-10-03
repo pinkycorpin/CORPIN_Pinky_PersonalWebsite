@@ -101,8 +101,7 @@ p.five{
 	font-size: 30px;
 	width: 400px;
 	height: 50px;
-	border: 2px solid black;
-	background-color: #f7def7;
+	background-color: #e9ccea;
 	text-align: center;
 	font-family: 'Encode Sans Expanded', sans-serif;
 }
