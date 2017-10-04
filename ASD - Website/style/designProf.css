@@ -119,7 +119,8 @@ p.six{
 	font-family: 'Encode Sans Expanded', sans-serif;
 }
 p.seven{
-	text-align: center;
+	text-indent: 25px;
+	text-align: justify;
 	font-family: 'PT Sans', sans-serif;
 	font-size: 15px;
 	margin-left: 10px;
