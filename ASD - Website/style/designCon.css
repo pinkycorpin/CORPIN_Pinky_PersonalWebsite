@@ -90,9 +90,9 @@ input[type = "submit"]{
 }
 footer{
 	display: block;
-	background-color: black;
+	background-color: #efedef;
     overflow: hidden;
-    color: white;
+    color: black;
     margin: 10px;
     width: 900px;
     height: 30px;
