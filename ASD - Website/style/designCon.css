@@ -4,10 +4,10 @@ body{
 	margin: 0 auto;
 }
 .topnav {
-    background-color: #e0dbe0;
+    background-color: #efcee4;
     overflow: hidden;
     margin: 10px;
-    width: 900px;
+    width: 950px;
 }
 .topnav a {
     float: left;
@@ -34,6 +34,10 @@ img.align-center{
 img.medium{
 	width: 400px;
 	height: 204px;
+}
+.container{
+    padding: 50px 50px;
+    background-color: #efcee4;
 }
 #content{
 	overflow: auto;
