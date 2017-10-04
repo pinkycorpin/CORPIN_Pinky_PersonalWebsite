@@ -51,7 +51,7 @@ p.one{
 	height: 20px;
 	text-align: center;
 	font-family: 'Allura', cursive;
-	background-color: #d1cfd1;
+	background-color: #f7e8f7;
 }
 p.two{
 	margin-top: 50px;
@@ -69,7 +69,7 @@ p.three{
 	height: 20px;
 	text-align: center;
 	font-family: 'Encode Sans Expanded', sans-serif;
-	background-color: #d1cfd1;
+	background-color: #f7e8f7;
 }
 p.four{
 	margin-left: 35px;
@@ -108,7 +108,7 @@ p.five{
 	font-size: 30px;
 	width: 400px;
 	height: 50px;
-	background-color: #d1cfd1;
+	background-color: #f7e8f7;
 	text-align: center;
 	font-family: 'Encode Sans Expanded', sans-serif;
 }
@@ -116,6 +116,7 @@ p.six{
 	margin-top: 100px;
 	font-size: 20px;
 	text-align: left;
+	text-decoration: underline;
 	font-family: 'Encode Sans Expanded', sans-serif;
 }
 p.seven{
@@ -129,6 +130,7 @@ p.seven{
 p.eight{
 	font-size: 20px;
 	text-align: left;
+	text-decoration: underline;
 	font-family: 'Encode Sans Expanded', sans-serif;
 	margin-top: 60px;
 }
@@ -136,6 +138,7 @@ p.ten{
 	margin-top: 50px;
 	font-size: 20px;
 	text-align: left;
+	text-decoration: underline;
 	font-family: 'Encode Sans Expanded', sans-serif;
 }
 p.eleven{
