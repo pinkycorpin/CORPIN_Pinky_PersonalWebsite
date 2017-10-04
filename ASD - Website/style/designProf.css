@@ -8,6 +8,7 @@ body{
     overflow: hidden;
     margin: 10px;
     width: 900px;
+    height: 40px;
 }
 .topnav a { 
     float: left;
@@ -16,8 +17,8 @@ body{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-family: 'Prociono', serif;
-    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
 }
 .topnav a:hover {
     background-color: #e8b9da;
@@ -125,4 +126,16 @@ p.eight{
 	text-align: left;
 	font-family: 'Encode Sans Expanded', sans-serif;
 	margin-top: 150px;
+}
+footer{
+	display: block;
+	background-color: black;
+    overflow: hidden;
+    color: white;
+    margin: 10px;
+    width: 900px;
+    height: 30px;
+    text-align: right;
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
 }
