@@ -8,6 +8,7 @@ body{
     overflow: hidden;
     margin: 10px;
     width: 950px;
+    height: 40px;
 }
 .topnav a {
     float: left;
@@ -16,6 +17,7 @@ body{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family: 'Roboto', sans-serif;
     font-size: 17px;
 }
 .topnav a:hover {
@@ -85,4 +87,16 @@ input[type = "submit"]{
 	width: 10%;
 	border: 1px solid black;
 	background: #FDF2FF;
+}
+footer{
+	display: block;
+	background-color: black;
+    overflow: hidden;
+    color: white;
+    margin-top: 10px;
+    width: 960px;
+    height: 30px;
+    text-align: right;
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
 }
