@@ -63,18 +63,23 @@ p.three{
 	margin-top: 50px;
 	margin-left: 15px;
 	padding: 10px;
-	font-size: 25px;
+	font-size: 27px;
 	width: 250px;
 	height: 20px;
 	text-align: center;
-	font-family: 'Allura', cursive;
+	font-family: 'Encode Sans Expanded', sans-serif;
 	background-color: #e9ccea;
 }
 p.four{
-	margin-top: 50px;
 	margin-left: 35px;
 	font-family: 'Antic', sans-serif;
 	font-size: 18px;
+	color: #6d6c6d;
+}
+p.fr{
+	margin-left: 50px;
+	font-family: 'Antic', sans-serif;
+	font-size: 16px;
 	color: #6d6c6d;
 }
 .column1{
