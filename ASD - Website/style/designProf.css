@@ -51,7 +51,7 @@ p.one{
 	height: 20px;
 	text-align: center;
 	font-family: 'Allura', cursive;
-	background-color: #e9ccea;
+	background-color: #d1cfd1;
 }
 p.two{
 	margin-top: 50px;
@@ -69,7 +69,7 @@ p.three{
 	height: 20px;
 	text-align: center;
 	font-family: 'Encode Sans Expanded', sans-serif;
-	background-color: #e9ccea;
+	background-color: #d1cfd1;
 }
 p.four{
 	margin-left: 35px;
@@ -108,7 +108,7 @@ p.five{
 	font-size: 30px;
 	width: 400px;
 	height: 50px;
-	background-color: #e9ccea;
+	background-color: #d1cfd1;
 	text-align: center;
 	font-family: 'Encode Sans Expanded', sans-serif;
 }
@@ -136,7 +136,7 @@ p.nine{
 	margin-left: 30px;
 	text-decoration: none;
 	font-size: 20px;
-	vertical-align: middle;
+	display: inline-block;
 	color: black;
 }
 footer{
