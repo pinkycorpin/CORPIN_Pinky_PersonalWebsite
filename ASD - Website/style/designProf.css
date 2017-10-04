@@ -130,7 +130,21 @@ p.eight{
 	font-size: 20px;
 	text-align: left;
 	font-family: 'Encode Sans Expanded', sans-serif;
-	margin-top: 100px;
+	margin-top: 60px;
+}
+p.ten{
+	margin-top: 50px;
+	font-size: 20px;
+	text-align: left;
+	font-family: 'Encode Sans Expanded', sans-serif;
+}
+p.eleven{
+	text-indent: 25px;
+	text-align: justify;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 p.nine{
 	margin-left: 30px;
