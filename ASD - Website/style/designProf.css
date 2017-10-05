@@ -106,16 +106,17 @@ p.fr{
 	padding-color: pink;
 	border-radius: 5px;
 	width: 400px;
-	height: 50px;
+	height: 100px;
 	background-color: #f7e8f7;
 }
 p.five{
+	margin-top: 10px;
 	font-size: 30px;
 	text-align: center;
 	font-family: 'Encode Sans Expanded', sans-serif;
 }
 p.six{
-	margin-top: 100px;
+	margin-top: 80px;
 	font-size: 20px;
 	text-align: left;
 	text-decoration: underline;
