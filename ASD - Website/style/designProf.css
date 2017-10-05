@@ -84,7 +84,7 @@ p.fr{
 	color: black;
 }
 .column1{
-	background-color: #e0dbe0;
+	background-color: #f2cdf2;
 	width: 300px;
 	height: 900px;
 	float: left;
@@ -92,7 +92,7 @@ p.fr{
 	margin-top: 5px;
 }
 .column2{
-	background-color: #e0dbe0;
+	background-color: #f2cdf2;
 	width: 580px;
 	height: 900px;
 	float: left;
@@ -122,7 +122,7 @@ p.six{
 p.seven{
 	text-indent: 25px;
 	text-align: justify;
-	font-family: 'PT Sans', sans-serif;
+	font-family: 'Karma', serif;
 	font-size: 15px;
 	margin-left: 10px;
 	margin-right: 10px;
@@ -144,7 +144,7 @@ p.ten{
 p.eleven{
 	text-indent: 25px;
 	text-align: justify;
-	font-family: 'PT Sans', sans-serif;
+	font-family: 'Karma', serif;
 	font-size: 15px;
 	margin-left: 10px;
 	margin-right: 10px;
