@@ -4,7 +4,7 @@ body{
 	margin: 0 auto;
 }
 .topnav {
-    background-color: #e0dbe0;
+    background-color: black;
     overflow: hidden;
     margin: 10px;
     width: 900px;
@@ -13,7 +13,7 @@ body{
 .topnav a { 
     float: left;
     display: block;
-    color: #070707;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
